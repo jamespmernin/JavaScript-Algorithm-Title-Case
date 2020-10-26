@@ -20,4 +20,4 @@
 
 - You will need to account for edge cases.
 
-Pull requests due by 11pm. Happy hacking!
+Pull requests due by 11pm. Happy hacking.
